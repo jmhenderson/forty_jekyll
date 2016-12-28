@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'People find meaning in narrative driven connections. Your story speaks purpose and passion. '
 description: null
 image: null
 author: null

@@ -1,8 +1,8 @@
 # Site settings
-title: Forty
-subtitle: by HTML5 UP
+title: narratology
+subtitle: be heard
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Tell Your Story
 baseurl: "/forty_jekyll" # the subpath of your site, e.g. /blog
 url: "https://jmhenderson.github.io" # the base hostname & protocol for your site
 author:

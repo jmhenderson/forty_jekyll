@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Define Your Purpose and Passion.'
+landing-title: 'Human Storytellers'
 description: null
 image: null
 author: null

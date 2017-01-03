@@ -2,7 +2,7 @@
 title: narratology
 subtitle: be heard
 email: youremailaddress@gmail.com
-description: Our story creates meaningful connections between who we are and what we do. 
+description:
 Tell Your Story
 baseurl: "/forty_jekyll" # the subpath of your site, e.g. /blog
 url: "https://jmhenderson.github.io" # the base hostname & protocol for your site

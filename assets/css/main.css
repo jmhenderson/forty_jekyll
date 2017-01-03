@@ -3545,9 +3545,10 @@
 		}
 
 /* Main */
-
+/* #main color background-color: #2a2f4a;
+	}*/
 	#main {
-		background-color: #2a2f4a;
+		background-color: #FFAB34 ;
 	}
 
 		#main > * {
